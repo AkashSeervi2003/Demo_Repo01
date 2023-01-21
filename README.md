@@ -1,2 +1,3 @@
 # 1st Repository 
-Creating My First Repository File
+
+Creating a repository by clicking on to new file menu
